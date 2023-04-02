@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "author_name": "Md Nasim Hosen",
+      "blog_title": "React lets you build user interfaces out of individual pieces called components.",
+      "blog_cover_image": "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author_image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "read_time": 5,
+      "publish_date": "February 8 (9 Days ago)"
+    },
+    {
+      "id": 2,
+      "author_name": "Md Saiful Islam",
+      "blog_title": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images",
+      "blog_cover_image": "https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author_image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "read_time": 10,
+      "publish_date": "April 17 (22 Days ago)"
+    },
+    {
+      "id": 3,
+      "author_name": "Md Nahid Khan",
+      "blog_title": "Node.js is an open source server environment; Node.js is free; Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)",
+      "blog_cover_image": "https://images.pexels.com/photos/5473298/pexels-photo-5473298.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author_image": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "read_time": 20,
+      "publish_date": "January 4 (45 Days ago)"
+    },
+    {
+      "id": 4,
+      "author_name": "Md Arman Hossain",
+      "blog_title": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications",
+      "blog_cover_image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author_image": "https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "read_time": 15,
+      "publish_date": "Mar 14 (4 Days ago)"
+    }
+  ]
+  
